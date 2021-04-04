@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🏴 [Feel free to read my CTF writeups ](https://github.com/PDROJACK/writeUps)
+
+🎵 [Check out my Favourite playist](https://open.spotify.com/playlist/6WvVlKHIyh1Frlbn2xNs0a?si=03c033d6a9d245d4)
