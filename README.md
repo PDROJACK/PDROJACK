@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💉 I’m currently working on [Injext](https://injext.unicornplatform.page)
+🎥 Currently working on [CineBuy]
+
+💉 Checkout [Injext](https://injext.unicornplatform.page) - A chrome extension to fasten form filling using github repo
 
 🏴 Feel free to read my CTF [writeups](https://github.com/PDROJACK/writeUps)
 
