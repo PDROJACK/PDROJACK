@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 🎥 Currently working on [CineBuy]
 
-💉 Checkout [Injext](https://injext.unicornplatform.page) - A chrome extension to fasten form filling using github repo
+📖 Read [pdtheblog](pdtheblog.gatsbyjs.io)
+
+💉 Check out [Injext](https://injext.unicornplatform.page) - A chrome extension to fasten form filling using github repo
 
 🏴 Feel free to read my CTF [writeups](https://github.com/PDROJACK/writeUps)
 
